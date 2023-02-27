@@ -24,16 +24,16 @@ You can run `shift shift` and get the following response in a matter of seconds 
 With a quick `copy` and `paste` you can respond faster than you would have originally saving you time and money! Yay :smile:
 
 # Known Issues To MVP (Goal: Tuesday)
-- [ ] Tkinter does not work while running in a thread sad. Need to fix
-- [ ]  OCR pytesseract quality is really low. Need to either filter text through prompt enginering or find a way to extract better OCR to text from huggingface (layoutvm3) 
+- [ ] Tkinter does not work while running in a thread sad. Need to fix (2 hour)
+- [ ]  OCR pytesseract quality is really low. Need to either filter text through prompt enginering or find a way to extract better OCR to text from huggingface (layoutvm3) (2 hours)
 
 
 # Extensions (Goal: Thursday)
-- [ ] Autorun pipeline of extracted text on all emails. Find easy way to hook up emails. Keep the good responses and paste to screen.
-- [ ] Stretch goal: Make UI Better by switching from tkinter to something that can autofill in your screen 
+- [ ] Autorun pipeline of extracted text on all emails. Find easy way to hook up emails. Keep the good responses and paste to screen. (2 hour)
+- [ ] Stretch goal: Make UI Better by switching from tkinter to something that can autofill in your screen (3 hours) 
 
 
 # Presentation (Friday): 
-- [ ] Make cute sales slides and 1 cute demo of fb message response and 1 walkthrough of gmail response
+- [ ] Make cute sales slides and 1 cute demo of fb message response and 1 walkthrough of gmail response. 1 minute long max (2 hour)
 
   
